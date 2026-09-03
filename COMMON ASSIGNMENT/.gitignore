@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+outputs/results/*
+outputs/detected_plates/*
+!outputs/results/.gitkeep
+!outputs/detected_plates/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
